@@ -22,7 +22,4 @@ Things you may want to cover:
 * Deployment instructions
 
 * ...
-sssssssjsajasjass
-1
-2
-3
+First Test Repo On The Compelete Ruby On Rails Developer By Mohammad Al-Joulani
